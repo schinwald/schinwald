@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hello World! :wave:
 
-<!--
-**schinwald/schinwald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a recent graduate with a solid background in software development and excellent communication skills. Passionate about learning and growing, I am looking to join a high performing and dynamic team where I can refine my skill set.
 
-Here are some ideas to get you started:
+- :computer: I’m currently working on job applications and practicing interview questions
+- :seedling: I’m currently freshening up on data structures and algorithms
+- :busts_in_silhouette: I’m looking to collaborate on all projects
+- :phone: How to reach me: https://www.linkedin.com/in/schinwald/
+- :speaking_head: Pronouns: He/Him
+- :zap: Fun fact: I am a dual citizen :canada: :us:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| LeetCode | GitHub |
+|:-|:-|
+| [![Leetcode Statistics](https://leetcode.card.workers.dev/?username=schinwald)](https://leetcode.com/schinwald) | [![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=schinwald)](https://github.com/schinwald) |
