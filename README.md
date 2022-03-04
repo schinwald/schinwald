@@ -7,11 +7,11 @@ I am a recent graduate with a solid background in software development and excel
 - :busts_in_silhouette: I’m looking to collaborate on all projects
 - :phone: How to reach me: [linkedin.com/in/schinwald][linkedin-profile]
 - :speaking_head: Pronouns: He/Him
-- :zap: Fun fact: I am a dual citizen :canada: :us:
+- :zap: Fun fact: I am a dual citizen (:canada: :us:)
 
-| LeetCode                                                        | GitHub                                                    |
-| :-------------------------------------------------------------- | :-------------------------------------------------------- |
-| [![Leetcode Statistics][leetcode-statistics]][leetcode-profile] | [![GitHub Statistics][github-statistics]][github-profile] |
+| GitHub                                                    | LeetCode                                                        |
+| :-------------------------------------------------------- | :-------------------------------------------------------------- |
+| [![GitHub Statistics][github-statistics]][github-profile] | [![Leetcode Statistics][leetcode-statistics]][leetcode-profile] |
 
 [linkedin-profile]: https://www.linkedin.com/in/schinwald/
 [leetcode-profile]: https://leetcode.com/schinwald
