@@ -1,4 +1,4 @@
-## Hello World! :wave:
+## Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width: 24px; margin-bottom: -0.2rem; margin-left: 0.5ch; transform: scaleX(-1)">
 
 I am a recent graduate with a solid background in software development and excellent communication skills. Passionate about learning and growing, I am looking to join a high performing and dynamic team where I can refine my skill set.
 
