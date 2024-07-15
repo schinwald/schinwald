@@ -2,8 +2,8 @@
 
 I am a recent graduate with a solid background in software development and excellent communication skills. Passionate about learning and growing, I am looking to join a high performing and dynamic team where I can refine my skill set.
 
-- :computer: I’m currently working at Devopie Inc.
-- :seedling: I’m currently learning a lot about online transactions
+- :computer: I’m currently working at Nautical Commerce
+- :seedling: I’m currently learning a lot about multi-vendor marketplaces
 - :busts_in_silhouette: I’m looking to collaborate on all projects
 - :phone: How to reach me: [linkedin.com/in/schinwald][linkedin-profile]
 - :speaking_head: Pronouns: He/Him
