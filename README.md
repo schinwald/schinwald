@@ -17,4 +17,4 @@ I am a recent graduate with a solid background in software development and excel
 [leetcode-profile]: https://leetcode.com/schinwald
 [leetcode-statistics]: https://leetcode.card.workers.dev/?username=schinwald
 [github-profile]: https://github.com/schinwald
-[github-statistics]: https://github-readme-stats.vercel.app/api?username=schinwald
+[github-statistics]: https://github-readme-stats-rosy-nu-77.vercel.app/api?username=schinwald
