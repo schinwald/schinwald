@@ -1,6 +1,6 @@
 ## Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width: 24px; margin-bottom: -0.2rem; margin-left: 0.5ch; transform: scaleX(-1)">
 
-I am a recent graduate with a solid background in software development and excellent communication skills. Passionate about learning and growing, I am looking to join a high performing and dynamic team where I can refine my skill set.
+I'm a software engineer based in Toronto, ON, who loves solving problems and bringing ideas to life through code. I work across the stack and enjoy making apps that are both fun and functional. Whether it’s tweaking a UI or optimizing the backend, I’m passionate about building smooth, user-friendly experiences.
 
 - :computer: I’m currently working at Nautical Commerce
 - :seedling: I’m currently learning a lot about multi-vendor marketplaces
