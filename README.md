@@ -2,8 +2,8 @@
 
 I'm a software engineer based in Toronto, ON, who loves solving problems and bringing ideas to life through code. I work across the stack and enjoy making apps that are both fun and functional. Whether it’s tweaking a UI or optimizing the backend, I’m passionate about building smooth, user-friendly experiences.
 
-- :computer: I’m currently working at Nautical Commerce
-- :seedling: I’m currently learning a lot about multi-vendor marketplaces
+- :computer: I’m currently working at Relay
+- :seedling: I’m currently learning a lot about small business banking solutions
 - :busts_in_silhouette: I’m looking to collaborate on all projects
 - :phone: How to reach me: [linkedin.com/in/schinwald][linkedin-profile]
 - :speaking_head: Pronouns: He/Him
